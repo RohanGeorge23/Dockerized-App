@@ -7,6 +7,9 @@ app.use(express.json());
 
 const client = new PrismaClient();
 
+console.log("APPLICATION STARTED \n You can go to http://localhost:3000")
+
+
 app.get("/", (req, res) => {
     res.json({
         message: "Healthy server"
