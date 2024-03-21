@@ -1,2 +1,3 @@
-This is application aimed to Dockerize.
-This application uses Prima,SQL,Typescript,JS, NODE
+Dockerization of application.
+
+Tech Stack : Typescript, Prisma, Node, Docker
